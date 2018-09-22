@@ -1,2 +1,6 @@
 # git-test
-git pro  
+git pro 阅读随书代码
+
+# gitignore
+
+test 
