@@ -4,6 +4,14 @@ sdjfj
 
 
 skdjf  lajsdlfj
-            
+
+git  add -i
+
+
+part1
+
+part2
+
+git stash
 
                 
