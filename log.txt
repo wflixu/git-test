@@ -14,4 +14,7 @@ part2
 
 git stash
 
+i do some work ,
+icommit at first ;
+
                 
